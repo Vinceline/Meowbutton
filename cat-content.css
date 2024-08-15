@@ -1,0 +1,46 @@
+p button{
+    font-family: monospace;
+    font-size: 30px;
+}
+div button{
+    border: none;
+    background: none;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+#meow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#meow-image{
+    margin-top: 115px;
+    margin-right: 800px;
+    width: 30%;
+    height: auto;
+    cursor: pointer;
+}
+#shop:hover{
+    border: 2px solid gold;
+}
+#shop{
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.container{
+    position: absolute;
+    justify-content: flex-end;
+    padding: 2px;
+    background-color: gold;
+    align-items: center;
+    width: 600px;
+    height: 600px;
+    margin-left: 700px;
+    margin-bottom: 700px;
+
+}
+.content{
+    position:relative;
+}
