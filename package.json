@@ -1,0 +1,9 @@
+{
+  "name": "meowbutton",
+  "version": "1.0.0",
+  "main": "meowserver.js",
+  "scripts": {
+    "start": "node meowserver.js"
+  },
+  "dependencies": {}
+}
